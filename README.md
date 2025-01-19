@@ -89,6 +89,5 @@ This Python application helps users learn new words in a foreign language using 
 - Ensure the `images` and `data` directories exist and contain the necessary files.
 - Customize the `french_words.csv` file to include your preferred languages.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it.
+.
 
